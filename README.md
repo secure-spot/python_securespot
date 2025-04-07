@@ -19,7 +19,7 @@ The project consists of Backend components:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/securespotapp.git
+https://github.com/secure-spot/python_securespot.git
 ```
 
 2. Navigate to the project directory:
